@@ -21,6 +21,8 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    <H1>Hello openDCP! </H1> <br>
+     <div style = "text-align:center; height:600px; margin-top:160px;vertical-align:middle;">
+     	<H1>Hello openDCP! </H1>
+     </div>
   </body>
 </html>
